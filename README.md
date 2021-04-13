@@ -1,5 +1,5 @@
 # Axios interceptors
 
-##instance.interceptors.request
+## instance.interceptors.request
 
-##instance.interceptors.response
+## instance.interceptors.response
